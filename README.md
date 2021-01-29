@@ -10,7 +10,7 @@ Data Survei yang kita miliki, dari 65 Orang 93,8% menyatakan setuju dengan adany
 
 <b>Fitur Unggulan</b> :
 - <b>Konsultasi</b> : Berkonsultasi secara gratis, dapat berinteraksi melalui Call dan Video Call.
-- <b>Ruqyah</b> : Ruqyah Mandiri berupa sekumpulan Video dan Live streaming setiap pekan.
+- <b>Ruqyah</b> : Ruqyah Mandiri berupa sekumpulan Video dan Live streaming setiap pekan.<br>
 Dan Fitur lainnya yaitu, Fitur Materi, Fitur Hadist dan Fitur Al-Quran.
 
 Prototype aplikasi ini berbahasa indonesia.
